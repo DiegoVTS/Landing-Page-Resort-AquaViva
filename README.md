@@ -67,3 +67,4 @@ Animações e melhorias visuais
 
 🔗 Link do projeto
 
+https://diegovts.github.io/Landing-Page-Resort-AquaViva/
