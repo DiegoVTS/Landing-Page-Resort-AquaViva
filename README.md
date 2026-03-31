@@ -65,6 +65,4 @@ Sistema de reservas mais avançado
 
 Animações e melhorias visuais
 
-## 🔗 Link do projeto
-
-https://diegovts.github.io/Landing-Page-Resort-AquaViva/
+👉 [Acesse o projeto aqui](https://diegovts.github.io/Landing-Page-Resort-AquaViva/)
